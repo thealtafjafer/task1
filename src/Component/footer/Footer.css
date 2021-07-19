@@ -1,0 +1,20 @@
+.main{
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: rgb(49, 49, 49);
+    border-top: 4px solid #0d6efd;
+   
+    color: white;
+    
+}
+.btn{
+    margin: 5px ;
+}
+.reserved{
+    text-align: center;
+   
+    padding-top: 20px;
+}
+.aj{
+    color: #0d6efd;
+}

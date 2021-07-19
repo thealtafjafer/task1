@@ -1,0 +1,19 @@
+.carimg{
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+    
+}
+.cardata{
+    margin-top: 10vh !important;
+}
+.carousel-caption{
+    color: rgb(233, 232, 232) !important;
+}
+.Carmain .btn-outline-primary{
+color: white;
+border-color: white;
+}
+.sr-only{
+    display: none;
+}

@@ -1,0 +1,17 @@
+.mndiv .MuiSvgIcon-root{
+    font-size: 5rem !important;
+}
+.mndiv{
+    margin-left: 5% !important;
+}
+.Iconsmain .iconx{
+    color:#0d6efd  ;
+}
+.Iconsmain{
+    background-color: rgb(233, 232, 232);
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+    margin-bottom: 40px;
+}

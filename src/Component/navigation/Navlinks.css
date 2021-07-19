@@ -1,0 +1,32 @@
+.NavCSS .iconstyle{
+    transform: scale(1.8);
+    float: right;
+    height: 10vh;
+  
+}
+.navbar {
+    padding-top: 1px !important;
+    padding-bottom:1px  !important;
+    padding-left: 5vh !important;
+    padding-right: 5vh !important;
+    /* border-bottom: 2px solid #0d6efd !important; */
+}
+
+.navmn{
+     border-bottom: 4px solid #0d6efd !important;
+}
+.btn-outline-success {
+    color: #0d6efd !important;
+    border-color: #0d6efd !important;
+    
+}
+
+
+
+.searchcss{
+    margin-left: auto;
+}
+.imgnav{
+    width: 10vh;
+    height: auto;
+}

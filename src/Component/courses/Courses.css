@@ -1,0 +1,23 @@
+.button{
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.coursesmain{
+    margin:40px;
+}
+.coursesmain .para{
+    padding-top: 12px;
+    color: gray;
+}
+.coursebar{
+    margin: 40px;
+
+}
+.coursesmain .btn-primary{
+    color:gray;
+    background-color: white;
+    border-color: gray;
+}

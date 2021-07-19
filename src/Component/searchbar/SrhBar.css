@@ -1,0 +1,22 @@
+.head{
+    margin-top: 10px;
+    margin-bottom:30px ;
+}
+.Srhmain .row{
+    background-color: rgb(233, 232, 232);
+    border-radius: 10px;
+    padding:20px 2px 10px 25px;
+    display: flex;
+    justify-content: center;
+}
+.Srhmain .drop{
+    /* padding-left: 160px !important; */
+}
+.Srhmain .btn-primary{
+    width: 400px;
+    color: gray;
+    background-color: white !important;
+    border-color: white !important;
+    
+    padding-left: 220px;
+}
